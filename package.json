@@ -1,0 +1,23 @@
+{
+  "name": "pinata-upload-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "pinata-cli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base-path-converter": "^1.0.2",
+    "commander": "^8.3.0",
+    "form-data": "^4.0.0",
+    "got": "^11.8.2",
+    "path": "^0.12.7",
+    "recursive-fs": "^2.1.0"
+  }
+}
