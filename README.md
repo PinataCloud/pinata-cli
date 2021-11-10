@@ -18,7 +18,7 @@ To solve the problem, I built this small utility. In the process, we as a compan
 
 First, you have to install it.
 
-`npm i -g pinata-cli`
+`npm i -g pinata-upload-cli`
 
 Once it's installed, you will be able to check all the functionality by running: 
 
