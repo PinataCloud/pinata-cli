@@ -4,7 +4,7 @@ const program = require('commander');
 const path = require('path');
 const { handleUpload, handleSubmarine, getSubmarineAuth, getAuth, logIn, logInSubmarine } = require('./lib');
 program
-  .version('1.0.2')
+  .version('1.0.3')
   .name('pinata-cli')
   .description('A command line tool to upload files and folders to Pinata')
   .option('-a, --auth [jwt]', 'API jwt from Pinata')  

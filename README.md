@@ -16,6 +16,8 @@ To solve the problem, I built this small utility. In the process, we as a compan
 
 ### How to use this CLI
 
+Make sure you are using a recent version of Node. I recommend `14.17.6` or above.
+
 First, you have to install it.
 
 `npm i -g pinata-upload-cli`
