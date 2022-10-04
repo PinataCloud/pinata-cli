@@ -1,18 +1,8 @@
-## Pinata Upload CLI (Unofficial)
+## Pinata Upload CLI
 
 ### What is this?
 
 This is a simple command line tools designed to allow developers (and those familiar with the command line) to easily upload files and folders to their Pinata account. It is specifically built to help with large folder uploads. 
-
-**Background**
-
-I am the Head of Product at Pinata. I work closely with our customers and see both their successes and their friction points. One such friction point was with uploading large folders. NFT PFP projects exacerbated this. 
-
-To solve the problem, I built this small utility. In the process, we as a company have also hopefully found a better solution across the board for large folder uploads. 
-
-### Wait, what is Pinata? 
-
-[Pinata](https://pinata.cloud) is a media and content distribution platform built on top of IPFS. Pinata gives creators and developers and brands and everyone else control over their media and the distribution of said media, allowing everyone to be their own YouTube or Instagram or Netflix. 
 
 ### How to use this CLI
 
